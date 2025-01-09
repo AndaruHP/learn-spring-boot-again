@@ -1,4 +1,4 @@
-package com.tutorial.learn.upgradedHateoas;
+package com.tutorial.learn.hateoasUpgraded;
 
 import org.springframework.hateoas.CollectionModel;
 import org.springframework.hateoas.EntityModel;

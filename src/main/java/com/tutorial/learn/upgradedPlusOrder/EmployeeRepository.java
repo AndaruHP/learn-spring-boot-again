@@ -1,4 +1,4 @@
-package com.tutorial.learn.upgradedHateoas;
+package com.tutorial.learn.upgradedPlusOrder;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

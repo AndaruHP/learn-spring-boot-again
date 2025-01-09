@@ -1,4 +1,4 @@
-package com.tutorial.learn.upgradedHateoas;
+package com.tutorial.learn.hateoasUpgraded;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
