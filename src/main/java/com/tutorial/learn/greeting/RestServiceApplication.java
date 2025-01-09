@@ -1,4 +1,4 @@
-package com.tutorial.learn.restservice;
+package com.tutorial.learn.greeting;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

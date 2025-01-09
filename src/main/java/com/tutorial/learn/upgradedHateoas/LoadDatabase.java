@@ -1,4 +1,4 @@
-package com.tutorial.learn.hateoas;
+package com.tutorial.learn.upgradedHateoas;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -16,8 +16,8 @@ public class LoadDatabase {
     CommandLineRunner initDatabse(EmployeeRepository repository) {
         return args -> {
             if (repository.count() == 0) {
-                log.info("Preloading " + repository.save(new Employee("Bilbo Baggins", "burglar")));
-                log.info("Preloading " + repository.save(new Employee("Frodo Baggins", "thief")));
+                log.info("Preloading " + repository.save(new Employee("Bilbo", "Baggins", "burglar")));
+                log.info("Preloading " + repository.save(new Employee("Frodo", "Baggins", "thief")));
             } else {
                 log.info("Data sudah ada di database, tidak melakukan preload.");
             }

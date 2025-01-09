@@ -1,4 +1,4 @@
-package com.tutorial.learn.hateoas;
+package com.tutorial.learn.payrollHateoas;
 
 import org.springframework.hateoas.CollectionModel;
 import org.springframework.hateoas.EntityModel;

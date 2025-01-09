@@ -1,4 +1,4 @@
-package com.tutorial.learn.hateoas;
+package com.tutorial.learn.upgradedHateoas;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;

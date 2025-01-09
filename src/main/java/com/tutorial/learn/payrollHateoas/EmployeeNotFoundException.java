@@ -1,4 +1,4 @@
-package com.tutorial.learn.hateoas;
+package com.tutorial.learn.payrollHateoas;
 
 class EmployeeNotFoundException extends RuntimeException {
     EmployeeNotFoundException(Long id) {

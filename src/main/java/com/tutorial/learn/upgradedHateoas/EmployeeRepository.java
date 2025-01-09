@@ -1,4 +1,4 @@
-package com.tutorial.learn.hateoas;
+package com.tutorial.learn.upgradedHateoas;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

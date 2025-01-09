@@ -1,4 +1,4 @@
-package com.tutorial.learn.hateoas;
+package com.tutorial.learn.payrollHateoas;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

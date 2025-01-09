@@ -1,4 +1,4 @@
-package com.tutorial.learn.restservice;
+package com.tutorial.learn.greeting;
 
 public record Greeting(long id, String content) {
 }

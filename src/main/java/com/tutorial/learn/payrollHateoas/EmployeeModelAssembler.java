@@ -1,4 +1,4 @@
-package com.tutorial.learn.hateoas;
+package com.tutorial.learn.payrollHateoas;
 
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.*;
 
